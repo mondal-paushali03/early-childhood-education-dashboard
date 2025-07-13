@@ -1,6 +1,16 @@
 # SpacECE India Foundation - Program Evaluation Dashboard
 
 This dashboard evaluates the early childhood education programs of **SpacECE India Foundation**, a Pune-based NGO supporting children from weaker economic sections. Built from over 75 data columns, it's organized into four key child development sections for actionable insights.
+
+# Table of Contents
+1.  [About the Dashboard](#-about-the-dashboard)
+2.  [Key Sections](#-key-sections)
+3.  [Findings & Insights](#-findings--insights)
+4.  [Recommended Actions](#-recommended-actions)
+5.  [How to Use the Dashboard](#-how-to-use-the-dashboard)
+6.  [Contact](#-contact)
+7.  [License](#license)
+   
 ## 🔗 About the Dashboard
 This tool helps SpacECE India Foundation monitor, evaluate, and enhance its programs. It visualizes key developmental metrics, highlighting successes and areas for improvement. Data can be filtered by Month, Family Income, Gender, and Age.
 
@@ -57,5 +67,29 @@ The dashboard is divided into four main areas:
 
 ## ❓ How to Use the Dashboard
 
-The dashboard is interactive. Use the "Filter By" options (Month, Family Income, Gender, Age) to refine data. Navigate between sections using the dedicated buttons to explore different developmental aspects.
+To view and interact with this report:
+
+1. **Clone the repository:**
+
+   ```
+   git clone [https://github.com/mondal-paushali03/early-childhood-education-dashboard.git](https://github.com/mondal-paushali03/early-childhood-education-dashboard.git)
+   ```
+
+2. **Open the Power BI file:**
+   Navigate to the cloned directory and open the `.pbix` file (e.g., `program evaluation dashboard.pbix`) using Power BI Desktop.
+
+3. **Explore the Dashboards:**
+   Switch between the "Employee Overview & Trends" and "Performance, Compensation & Data Quality" tabs at the bottom of the Power BI interface.
+
+4. **Utilize Filters:**
+   Use the "Filter By" pane on the left to refine your analysis by Year, Month, Department, and Gender.
+
+*(Note: Power BI Desktop is required to open and interact with the `.pbix` file.)*
+
+## ✉️ Contact
+For questions or analysis, contact Paushali Mondal at mondal.paushali384@gmail.com
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
