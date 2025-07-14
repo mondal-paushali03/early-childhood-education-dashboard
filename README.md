@@ -86,6 +86,7 @@ To view and interact with this report:
 
 *(Note: Power BI Desktop is required to open and interact with the `.pbix` file.)*
 
+<a id="contact"></a>
 ## ✉️ Contact
 For questions or analysis, contact Paushali Mondal at mondal.paushali384@gmail.com
 
