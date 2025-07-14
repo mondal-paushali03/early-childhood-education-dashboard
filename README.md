@@ -8,7 +8,7 @@ This dashboard evaluates the early childhood education programs of **SpacECE Ind
 3.  [Findings & Insights](#-findings--insights)
 4.  [Recommended Actions](#-recommended-actions)
 5.  [How to Use the Dashboard](#-how-to-use-the-dashboard)
-6.  [Contact](#--contact)
+6.  [Contact](#contact)
 7.  [License](#license)
    
 ## 🔗 About the Dashboard
